@@ -27,22 +27,22 @@ When done set your tx-sector back to auto:
 Below is the beam sector patern for each unit. align and monitor tx-sector-info are basing their left/right up/down directions on this chart i.e. tx sector = 48 then dish needs to go left 0.2 deg (one sector from 48 to 49) and up 0.4 deg (two sectors from 49 to 31)
 
 nRay 60G sector pattern
-00 01 02 03 04 05 06 07 08 
-09 10 11 12 13 14 15 16 17 
-18 19 20 21 22 23 24 25 26 
-27 28 29 30 *31* 32 33 34 35
-36 37 38 39 40 41 42 43 44 
-45 46 47 48 49 50 51 52 53 
-54 55 56 57 58 59 60 61 62 
-(Center Sector 31)
+00 01 02 03 04 05 06 07 08  
+09 10 11 12 13 14 15 16 17  
+18 19 20 21 22 23 24 25 26  
+27 28 29 30 *31* 32 33 34 35  
+36 37 38 39 40 41 42 43 44  
+45 46 47 48 49 50 51 52 53  
+54 55 56 57 58 59 60 61 62  
+(Center Sector 31)  
 
-LHG 60G sector pattern 
-00 01 02 03 04 05 06 07 
-08 09 10 11 12 13 14 15 
-16 17 18 19 20 21 22 23 
-24 25 26 *27* *28* 29 30 31 
-32 33 34 *35* *36* 37 38 39
-40 41 42 43 44 45 46 47 
-48 49 50 51 52 53 54 55 
-56 57 58 59 60 61 62 63 
-(Center Sector 27,28,35,36. Alignment tool refrences 36 as center I belive)
+LHG 60G sector pattern  
+00 01 02 03 04 05 06 07  
+08 09 10 11 12 13 14 15  
+16 17 18 19 20 21 22 23  
+24 25 26 *27* *28* 29 30 31  
+32 33 34 *35* *36* 37 38 39  
+40 41 42 43 44 45 46 47  
+48 49 50 51 52 53 54 55  
+56 57 58 59 60 61 62 63  
+(Center Sector 27,28,35,36. Alignment tool refrences 36 as center I belive)  
