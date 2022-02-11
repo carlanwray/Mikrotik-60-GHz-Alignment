@@ -67,5 +67,14 @@ LHG 60G sector pattern
 48 49 50 51 52 53 54 55  
 56 57 58 59 60 61 62 63  
 (Center Sector 27,28,35,36. Alignment tool refrences 36 as center I belive)  
+  
+ ## Sources
+[Manual:Interface/W60G](https://wiki.mikrotik.com/wiki/Manual:Interface/W60G) especially [Device RF Characteristics](https://wiki.mikrotik.com/wiki/Manual:Interface/W60G#Device_RF_characteristics)  
+[nRAY Faulty or not](https://forum.mikrotik.com/viewtopic.php?f=7&t=170578)  
+[WG60 Alignment - Can you really get it Centered](https://forum.mikrotik.com/viewtopic.php?t=170597)  
+[LHG 60G Alignment question](https://forum.mikrotik.com/viewtopic.php?t=179949)  
+[LHG 60G experience](https://forum.mikrotik.com/viewtopic.php?f=7&t=133374)  
+[LHG 60G experience 2](https://forum.mikrotik.com/viewtopic.php?p=812183)  
+
 
 [^1]: I have considered using locktite, a silicone or even a graphite lubricant but so far the turbine oil I keep on my truck has not caused any issues. I will update this if it ever becomes a problem. And I wouldn't do this if it didn't make a significant difference on dialing the link in.
