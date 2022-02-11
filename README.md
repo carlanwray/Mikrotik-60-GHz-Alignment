@@ -35,7 +35,7 @@ Continue to peak RSSI while also watching tx-mcs and tx-packet-error-rate. Use t
 Each face on the solidMOUNT adjustment bolt = ~0.45 degrees in the vertical axis and is roughly the same for the horizontal. The width of a single beam is only 0.2 to 0.8 deg. (YES ITS THAT SENSITIVE!)
 
 ## Second side of the link
-Now repeat this process for the other side of the link starting with [Initial Alignment](https://github.com/carlanwray/Mikrotik-60-GHz-Alignment/edit/main/README.md#initial-alignment) above.
+Now repeat this process for the other side of the link starting with [Initial Alignment](https://github.com/carlanwray/Mikrotik-60-GHz-Alignment#initial-alignment) above.
 
 When completely done set your tx-sector back to auto:
 
