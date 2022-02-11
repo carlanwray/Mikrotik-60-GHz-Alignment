@@ -75,9 +75,10 @@ LHG 60G sector pattern
 [LHG 60G Alignment question](https://forum.mikrotik.com/viewtopic.php?t=179949)  
 [LHG 60G experience](https://forum.mikrotik.com/viewtopic.php?f=7&t=133374)  
 [LHG 60G experience 2](https://forum.mikrotik.com/viewtopic.php?p=812183)  
+[Channel 5 Support](https://forum.mikrotik.com/viewtopic.php?t=174483&fbclid=IwAR1vEHYh_Tw5Itjowokxbq_Yv9kxOg59F8zy_m9qoIlcxh8n8_XSY7LUmlQ#p860031)
 
 ## General nRAY and LHG 60G info not found elsewhere
-Both support channel 4.5 - 66000 but not channel 5 - 66960. My understanding is that this is a limitation of the Mikrotik implementation of the AY chip or a physical limitation of the AY chipset itself.
+Both support channel 4.5 - 66000 but not channel 5 - 66960. My understanding is that this is a limitation of the AD chipset itself. See this [comment by antonsb with MikroTik Support](https://forum.mikrotik.com/viewtopic.php?t=174483&fbclid=IwAR1vEHYh_Tw5Itjowokxbq_Yv9kxOg59F8zy_m9qoIlcxh8n8_XSY7LUmlQ#p860031)
 
 
 [^1]: I have considered using locktite, a silicone or even a graphite lubricant but so far the turbine oil I keep on my truck has not caused any issues. I will update this if it ever becomes a problem. And I wouldn't do this if it didn't make a significant difference on dialing the link in.
