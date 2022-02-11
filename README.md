@@ -1,7 +1,7 @@
 # Mikrotik 60 GHz nRAY or LHG 60/G Alignment Instructions
 
 ## Mount tips and preliminary alignment info
-Lubricate all of the screws, washers, and even the pivoting bracket faces on the solidMOUNT with something like Zoom Spout turbine oil[^1], then tighten the locking screws until you can move it without racking the mount. Keep the center locking screws tight enough that the mount is not sloppy. By doing this, you will save a lot of trouble later when fine-tuning and locking down the mount.
+Lubricate all of the screws, washers, and even the pivoting bracket faces on the solidMOUNT with something like Zoom Spout turbine oil[^1], then tighten the locking screws until you can move it without racking the mount. Keep the center locking screws tight enough that the mount is not sloppy. By doing this, you will save a lot of trouble later when fine-tuning and locking down the mount. Oh, and do yourself a favor, use a 10 mm wrench for alignment adjustment. Your Leatherman will not give you the precision you need.
 
 Use either the sight tube or scope mount on the nRAY or a scope mounted to a level clamped to the LHG 60G to initially align the radio. *For longer links the scope is required to prevent insanity.* (NOTE: The nRAY scope mount is floppy, make sure it is resting solidly on the top mounting area, and don't touch it with your face while aligning!)
 
