@@ -1,4 +1,4 @@
-#Mikrotik 60 GHz nRAY or LHG 60/G Alignment Instructions
+# Mikrotik 60 GHz nRAY or LHG 60/G Alignment Instructions
 
 Lubricate all of the screws on the solidMOUNT with something like Zoom Spout turbine oil, then tighten the locking screws until you can move it without racking the mount. Keep the center locking screw pretty tight so the mount is not sloppy. By doing this, you will save a lot of trouble later when fine-tuning and locking down the mount.
 
